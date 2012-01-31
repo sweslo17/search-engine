@@ -1,0 +1,38 @@
+body{
+    border: 1;
+    font: 12px Arial, Helvetica, sans-serif;
+    background-repeat : repeat-x;
+    color: #000000;
+    line-height: 18px;
+    padding-bottom: 23px;
+    //background-color:#FFFAF0;
+						    
+}
+
+.content{
+    color:#000033;
+    background-color:#EEF5FC;
+    height: 200px;
+    width: 250px;
+    float:left;
+    border: 1px solid #000; 
+}
+
+#content{
+    background-color:#FEFFCD;
+    text-align:center;
+    position:relative;
+    margin:0 auto;
+    padding-left:35px;
+}
+
+#pager{
+    clear:both;
+}
+
+#top{
+    position: absolute;
+    top:0px;
+    left:0px;
+    text-decoration:underline;
+}
